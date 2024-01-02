@@ -1221,11 +1221,7 @@ h3{
 ### About Page:
 ![Screenshot 2023-12-24 143150](https://github.com/musfiramahjabeen/productcompanywebsite/assets/138971008/3355693c-56fe-405f-b018-07fe9d786e9a)
 
-
-
-
 ### Product Page:
-
 ![Screenshot 2023-12-24 143225](https://github.com/musfiramahjabeen/productcompanywebsite/assets/138971008/a9ce640b-1663-4980-8243-57e952d9d8f7)
 
 ![Screenshot 2023-12-24 143244](https://github.com/musfiramahjabeen/productcompanywebsite/assets/138971008/0339d5e4-36f8-4bc2-a477-902faf52cd4c)
